@@ -32,5 +32,5 @@ miniZZZ 是仿照游戏「绝区零」 绳网风格的 web应用.
 ::
 
 <div class="border rounded-lg shadow-md">
-  <iframe src="https://minizzz.csx.pw/" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
+  <iframe src="https://minizzz.xyz/" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
 </div>
