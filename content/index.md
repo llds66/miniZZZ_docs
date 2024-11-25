@@ -15,7 +15,7 @@ actions:
     variant: outline
     to: /getting-started
   - name: 开始使用
-    to: https://minizzz.csx.pw/
+    to: https://minizzz.xyz/
     target: '_blank'
   - name: GitHub
     variant: outline
