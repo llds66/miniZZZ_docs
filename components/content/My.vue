@@ -27,7 +27,7 @@ const openLink = (url: string | undefined) => {
             <img class="rounded-full min-h-40px min-w-40px w-14 h-14"
                 :src="`https://minizzz.xyz/avatar_presets/${item.icon}.jpg`" />
             <span @click="openLink(item.autherLink)"
-                class=" text-sm text-slate-500 cursor-pointer hover:text-slate-400">@{{
+                class=" text-sm text-slate-500 cursor-pointer hover:text-slate-400 dark:text-slate-300">@{{
                     item.auther }}</span>
         </div>
     </div>
