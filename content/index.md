@@ -6,17 +6,17 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'Release v0.0.1'
+  title: '开放注册'
   icon: '🎉'
-  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases
+  to: https://minizzz.xyz/
   target: _blank
 actions:
-  - name: 文档
-    variant: outline
-    to: /getting-started
-  - name: 开始使用
+  - name: 立即体验
     to: https://minizzz.xyz/
     target: '_blank'
+  - name: 文档
+    to: /getting-started
+    leftIcon: 'i-hugeicons-book-open-02'
   - name: GitHub
     variant: outline
     to: https://github.com/llds66/miniZZZ

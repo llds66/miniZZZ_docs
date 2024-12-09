@@ -44,6 +44,12 @@ export default defineAppConfig({
       enable: true,
       title: 'On This Page',
       links: [{
+        title: '立即体验',
+        icon: 'tabler:brand-zulip',
+        to: 'https://minizzz.xyz',
+        target: '_blank',
+      },
+      {
         title: 'QQ 交流群',
         icon: 'basil:qq-outline',
         to: 'https://qm.qq.com/q/N0OB93X6CY',
