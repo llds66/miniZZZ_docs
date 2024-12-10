@@ -20,7 +20,7 @@ export default defineAppConfig({
       nav: [],
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/llds66/miniZZZ',
+        to: 'https://github.com/llds66/miniZZZ_docs',
         target: '_blank',
       }],
     },
@@ -36,7 +36,7 @@ export default defineAppConfig({
       credits: 'Copyright © 2024',
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/llds66/miniZZZ',
+        to: 'https://github.com/llds66/miniZZZ_docs',
         target: '_blank',
       }],
     },
@@ -62,12 +62,12 @@ export default defineAppConfig({
       }, {
         title: 'Star on GitHub',
         icon: 'lucide:star',
-        to: 'https://github.com/llds66/miniZZZ',
+        to: 'https://github.com/llds66/miniZZZ_docs',
         target: '_blank',
       }, {
         title: 'Create Issues',
         icon: 'lucide:circle-dot',
-        to: 'https://github.com/llds66/miniZZZ/issues',
+        to: 'https://github.com/llds66/miniZZZ_docs/issues',
         target: '_blank',
       }],
     },

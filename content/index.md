@@ -19,7 +19,7 @@ actions:
     leftIcon: 'i-hugeicons-book-open-02'
   - name: GitHub
     variant: outline
-    to: https://github.com/llds66/miniZZZ
+    to: https://github.com/llds66/miniZZZ_docs
     target: _blank
     leftIcon: 'lucide:github'
 ---
